@@ -1,0 +1,25 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "title": "Simple gift card",
+      "number": "1234567890000000000",
+      "code": "123",
+      "discount": 20
+    },
+    {
+      "id": 2,
+      "title": "Long text - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt...",
+      "number": "1000000000000000001",
+      "code": "101",
+      "discount": 101
+    },
+    {
+      "id": 3,
+      "title": "Much Discount! Very reduce! Wow!",
+      "number": "9999999999999999999",
+      "code": "999",
+      "discount": 99999
+    }
+  ]
+}
